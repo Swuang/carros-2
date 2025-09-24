@@ -1,4 +1,3 @@
-import java.time.LocalDate;
 
 public class App {
     public static void main(String[] args) throws Exception {
@@ -16,7 +15,6 @@ public class App {
         veiculo.setAno(10);
         veiculo.setModelo(11);
 
-        #tibas
         veiculo.imprimirDadosDoVeiculo();
     }
 
